@@ -4,7 +4,7 @@
 系统前台：首页数据显示、讲师课程列表和详情、登录和注册、微信扫码 登录和支付
 
 ##前台界面
-![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-41-07.png)
+![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-41-36.png)
 ![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-41-54.png)
 ![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-42-32.png)
 ![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-42-53.png)
