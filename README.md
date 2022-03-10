@@ -16,5 +16,4 @@
 ![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-50-02.png)
 ## 后台界面
 ![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-41-07.png)
-![image](https://edu-online-platform.oss-cn-beijing.aliyuncs.com/education-bow/Snipaste_2022-03-10_15-51-46.png)
 
